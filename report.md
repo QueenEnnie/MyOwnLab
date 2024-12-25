@@ -60,7 +60,7 @@
    Ждем несколько минут и проверяем содержимое файла лога:
    
    ```bash
-   cat ~/var/log/disk_check.log
+   cat /var/log/disk_check.log
    ```
 
   ![2024-12-25_23-17-18](https://github.com/user-attachments/assets/49fe8e9c-273b-4957-86a7-fd7024f32da9)
