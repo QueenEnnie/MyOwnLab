@@ -51,7 +51,8 @@
 
     ```
 
-   ![2024-12-25_23-40-48](https://github.com/user-attachments/assets/c6906fa2-a449-4d7d-a36e-b81c5055d58c)
+   ![2024-12-25_23-40-48](https://github.com/user-attachments/assets/f14e4aae-d469-4f9a-b46f-649360d7a6c9)
+
 
    Сделаем скрипт исполняемым:
    
@@ -73,7 +74,8 @@
    */2 * * * * ~/disk_check.sh
    ```
    
-   ![2024-12-25_23-15-19](https://github.com/user-attachments/assets/85a0a50d-88ad-404d-823a-82b859f900a0)
+   ![2024-12-25_23-15-19](https://github.com/user-attachments/assets/14b01417-4c32-4f6f-b448-63667553018d)
+
 
 3. **Проверка работы**
    
@@ -83,5 +85,6 @@
    cat /var/log/disk_check.log
    ```
 
-  ![2024-12-25_23-17-18](https://github.com/user-attachments/assets/49fe8e9c-273b-4957-86a7-fd7024f32da9)
+   ![2024-12-25_23-17-18](https://github.com/user-attachments/assets/86aede39-4dc6-40f2-81bd-8bc6cf90b983)
+
 
