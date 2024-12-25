@@ -79,3 +79,5 @@
 
 1. [Crontab](https://man7.org/linux/man-pages/man5/crontab.5.html)
 2. [Cron Examples](https://rakeshjain-devops.medium.com/cron-examples-4233b873e5f9)
+3. [What Is Crontab Syntax: Understanding Crontab on Linux + Helpful Examples](https://www.hostinger.com/tutorials/crontab-syntax)
+4. [‘crontab’ in Linux with Examples](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/#what-is-linux-crontab)
